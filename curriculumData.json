@@ -1,0 +1,22 @@
+{
+  "curricula": [
+    {
+      "id": "kenya-cbc",
+      "name": "Kenya (CBC)",
+      "grades": ["Grade 1", "Grade 4", "Grade 7", "Grade 8", "Grade 9"],
+      "subjects": ["Math", "Science", "Social Studies", "Kiswahili"]
+    },
+    {
+      "id": "british-cie",
+      "name": "British (Cambridge)",
+      "grades": ["Year 7", "Year 9", "IGCSE", "A-Level"],
+      "subjects": ["Mathematics", "Biology", "Physics", "English Lit"]
+    },
+    {
+      "id": "ib-diploma",
+      "name": "International Baccalaureate",
+      "grades": ["PYP", "MYP", "DP1", "DP2"],
+      "subjects": ["Group 4: Sciences", "Group 5: Mathematics"]
+    }
+  ]
+}
